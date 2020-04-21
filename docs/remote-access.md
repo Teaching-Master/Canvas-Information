@@ -5,6 +5,7 @@ layout: page
 # Accessing Canvas From Home
 ***Or anywhere outside of our classroom***
 ---
+
 If you set up a Canvas account in class you can also access your account from a computer at home or with a smart phone.
 
 ## Using A Home Computer
