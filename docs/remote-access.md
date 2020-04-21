@@ -32,6 +32,14 @@ You can force Canvas to use the desktop site on your phone. It's not ideal, but 
 1. The next step depends on the browser you're using:
    * For **Safari**:
       1. In the address bar, at the top of the screen, click on the AA characters on the left side.
+      1. In the resulting menu select **Request Desktop Website.** You'll be taken to the desktop version of the site.
+      1. Click on the Google **G** icon to log in.
+   * For **Chrome**:
+      1. Click on the three dots in the lower right corner of the screen.
+      1. In the resulting menu select **Use Desktop Website.** You'll be taken to the desktop version of the site.
+      1. Click on the Google **G** icon to log in.
 
+## If all else fails
+If you're still stuck, see me on Zoom and we'll sort it out.
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
